@@ -42,7 +42,7 @@ justify-content: flex-start;
 align-items: center;
 border-radius: 10px;
 max-height: 250px;
-max-width: 370px;
+max-width: 330px;
 padding: 30px;
 box-shadow: 0 2px 3px rgba(0,0,0.2);
 transition: all 0.2 ease-in-out;
@@ -58,7 +58,7 @@ transition: all 0.2 ease-in-out;
 `
 export const Steps3Icon = styled.img`
 height: 230px;
-width: 370px;
+width: 330px;
 margin-top: -30px;
 margin-bottom: 10px;
 border-radius: 10px;
